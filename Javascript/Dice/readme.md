@@ -13,10 +13,16 @@ $ cd Hacking-Scripts/javascript/dice
 ```
 open index.html
 ```
-### DEMO
+### When Site loads
 
-![Alt text](https://user-images.githubusercontent.com/65030567/104946590-55164000-59e0-11eb-9ef5-ec5409356852.png )
+(![Screenshot (95)](https://user-images.githubusercontent.com/47074353/122642898-56cc6700-d12a-11eb-8cb0-19009cbd5386.png)
+)
 
-### After pressing refresh button
+### After pressing the button
 
-![Alt text]( https://github.com/pritamp17/Hacking-Scripts/blob/dice_js/Javascript/Dice/2..png?raw=true)
+(![Screenshot (96)](https://user-images.githubusercontent.com/47074353/122642905-6946a080-d12a-11eb-8863-bc86b461d81f.png)
+)
+
+### 3 seconds After Result (Back to Original State)
+![Screenshot (95)](https://user-images.githubusercontent.com/47074353/122642961-a874f180-d12a-11eb-9d6f-9d338b50e4a0.png)
+
